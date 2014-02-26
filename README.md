@@ -10,4 +10,14 @@ Este material es de uso didáctico y propiedad de UABC.  Las tablas son ficticia
 
  El archivo practica-joins.bak fue creado en SQL Server 2008 R2. Debe poder restaurado utilizando en procedimiento convencional. 
  
+###Restauración por medio de scripts
+
+Mayor compatibilidad
+
+1.Crear una base de datos nueva
+2.Abrir una venta para ejecución de querys seleccionado la base de datos recién creada.
+3.Ejecutar el script practica-joins-schema.sql
+4.Ejecutar el script practica-joins-data.sql
+
+ 
  
